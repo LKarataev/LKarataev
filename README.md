@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=winery2359&style=flat-square&color=blue" alt=""/>
 
 <!--
 **Winery2359/Winery2359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
