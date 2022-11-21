@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+### :man_technologist: About Me :
 
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
@@ -11,6 +10,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I code my pet projects.
 
+- 📫 How to reach me: [@lkarataev](https://t.me/lkarataev) on Telegram
 
 <!--
 **Winery2359/Winery2359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
