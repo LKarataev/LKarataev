@@ -1,14 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
+  <img src="./images/gopher.jpeg" width="150"/>
 </div>
 
-### :man_technologist: About Me :
+### About Me:
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Backend Developer from Russia.
 
-- :telescope: I’m learning backend for building web applications.
+- 🔭 I’m learning backend for building web applications.
 
-- :zap: In my free time, I code my pet projects.
+- ⚡ In my free time, I code my pet projects.
 
 - 📫 How to reach me: [@lkarataev](https://t.me/lkarataev) on Telegram
 
