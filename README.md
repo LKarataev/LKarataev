@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="./images/gopher.jpeg" width="150"/>
-</div>
 
 ### About Me:
 
