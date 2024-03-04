@@ -4,7 +4,7 @@
 
 ### About Me:
 
-I am a Backend Developer from Russia.
+I am a beginner Backend Developer from Russia.
 
 - 🔭 I’m learning backend for building web applications.
 
